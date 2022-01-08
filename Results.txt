@@ -1,0 +1,28 @@
+Time since message sent and then new row was first read...
+
+Cloud Functon
+8.44s
+4.10s
+2.86s
+2.85s
+3.22s
+2.63s
+2.49s
+3.71s
+2.72s
+2.74s
+
+Dataflow
+2.9s
+3.34s
+5.47s
+3.09s
+5.20s
+3.06s
+2.74s
+3.70s
+3.01s
+5.45s
+
+
+
